@@ -1,0 +1,34 @@
+
+state={
+	id=245
+	name="STATE_245"
+	manpower = 2334027
+	
+	state_category = rural
+	resources={
+		aluminium=0
+		chromium=0
+		oil=2
+		rubber=0
+		steel=4
+		tungsten=0
+	}
+
+	history={
+		owner = ISU
+		buildings = {
+			infrastructure = 2
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = ISU
+	}
+
+	provinces={
+		277 783 3070 3927 4145 4242 6360 7272 8410 8520 9438 9847 10907 12273 13152 13603 16888 17480 
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,34 @@
+
+state={
+	id=289
+	name="STATE_289"
+	manpower = 3168241
+	
+	state_category = town
+	resources={
+		aluminium=6
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		owner = ACH
+		buildings = {
+			infrastructure = 2
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = ACH
+	}
+
+	provinces={
+		334 1615 2680 2884 3605 3875 4412 4694 5546 6160 8231 8734 10212 13227 14807 16174 16371 
+	}
+	local_supplies=0.0 
+}

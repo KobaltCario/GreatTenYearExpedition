@@ -1,0 +1,34 @@
+
+state={
+	id=287
+	name="STATE_287"
+	manpower = 11891980
+	
+	state_category = megalopolis
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=3
+	}
+
+	history={
+		owner = WAT
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 1
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = WAT
+	}
+
+	provinces={
+		331 660 2081 2970 3791 6138 6399 8292 9144 9416 10285 12839 13081 13861 14751 15449 15481 16001 16057 
+	}
+	local_supplies=0.0 
+}

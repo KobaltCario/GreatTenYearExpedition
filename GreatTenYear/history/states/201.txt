@@ -1,0 +1,37 @@
+
+state={
+	id=201
+	name="STATE_201"
+	manpower = 11354368
+	
+	state_category = megalopolis
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		owner = HIA
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 2
+			
+			760 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = HIA
+	}
+
+	provinces={
+		228 760 1116 3270 3291 5537 7647 8403 9731 11461 11658 12237 12521 13322 13620 14020 14191 15184 16417 16749 17215 17439 17639 
+	}
+	local_supplies=0.0 
+}

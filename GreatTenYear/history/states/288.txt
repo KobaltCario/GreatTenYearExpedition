@@ -1,0 +1,34 @@
+
+state={
+	id=288
+	name="STATE_288"
+	manpower = 9460226
+	
+	state_category = metropolis
+	resources={
+		aluminium=0
+		chromium=0
+		oil=1
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		owner = NEH
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = NEH
+	}
+
+	provinces={
+		333 988 1692 2005 2017 2487 2908 3363 4531 7031 7160 7668 7772 8927 12515 14215 17131 17674 
+	}
+	local_supplies=0.0 
+}

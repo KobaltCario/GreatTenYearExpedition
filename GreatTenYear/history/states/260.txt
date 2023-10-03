@@ -1,0 +1,34 @@
+
+state={
+	id=260
+	name="STATE_260"
+	manpower = 2349592
+	
+	state_category = rural
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=8
+		tungsten=0
+	}
+
+	history={
+		owner = ROE
+		buildings = {
+			infrastructure = 2
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = ROE
+	}
+
+	provinces={
+		297 351 1745 1793 2376 5499 5985 7176 8711 9805 10861 12675 14886 15375 16267 16565 16633 17645 
+	}
+	local_supplies=0.0 
+}

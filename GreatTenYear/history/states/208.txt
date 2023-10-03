@@ -1,0 +1,34 @@
+
+state={
+	id=208
+	name="STATE_208"
+	manpower = 5845072
+	
+	state_category = large_town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=5
+		tungsten=6
+	}
+
+	history={
+		owner = TRU
+		buildings = {
+			infrastructure = 2
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = TRU
+	}
+
+	provinces={
+		237 688 1964 2793 4236 5763 6320 6377 7531 8044 8493 9643 9651 11584 12228 12483 15285 15538 15811 17370 
+	}
+	local_supplies=0.0 
+}
