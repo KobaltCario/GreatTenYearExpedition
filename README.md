@@ -27,24 +27,25 @@ Characters are a relatively recent addition to HOI4, these are used to figure ou
 
 Within the GreatTenYear\common\characters folder, there will be files named after country tags that will hold information about characters that belong to that country. Each character should be within it's own brackets, with their name, gender, portraits, and their 'stats'/information.
 For example:
-#EMPRESS KIKI   
-	SOE_kiki = {                              <---- This is the name of your new character, you will reference this
-		name = SOE_kiki                         <---- This is the name of your character from the localisation file
+
+	#EMPRESS KIKI
+	SOE_kiki = {  <---- This is the name of your new character, you will reference this
+		name = SOE_kiki  <---- This is the name of your character from the localisation file
 		gender = female
 
 		portraits = {
 			civilian = {
-				large = "gfx/leaders/SOE/portrait_SOE_kiki.dds"<-- civilian is used for the country leader portrait,has to be large
+				large = "gfx/leaders/SOE/portrait_SOE_kiki.dds" <-- civilian is used for the country leader portrait,has to be large
 			}
 			
 			army = {
-				large = "gfx/leaders/SOE/portrait_SOE_kiki.dds"<-- Used if this character is a general/field marshal
+				large = "gfx/leaders/SOE/portrait_SOE_kiki.dds" <-- Used if this character is a general/field marshal
 			}
 		}
 
-		country_leader = {  <-- This is the characters 'occupation' can be also a minister or general, check online for how to represent those
-            ideology = despotism  <-- MAKE SURE your character possesses an ideology thats in line with your country's! Otherwise it WON'T WORK.
-            traits = { agrarian_activist portly_princess }  <-- Character traits, list can be found at country_leader in common
+		country_leader = { <-- This is the characters 'occupation' can be also a minister or general, check online for how to represent those
+            ideology = despotism <-- MAKE SURE your character possesses an ideology thats in line with your country's! Otherwise it WON'T WORK.
+            traits = { agrarian_activist portly_princess } <-- Character traits, list can be found at country_leader in common
             desc = "Fattest Empress Around"
         }
 
