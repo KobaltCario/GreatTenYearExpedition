@@ -1,0 +1,34 @@
+
+state={
+	id=108
+	name="STATE_108"
+	manpower = 6068619
+	
+	state_category = large_city
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=8
+		tungsten=0
+	}
+
+	history={
+		owner = TUU
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = TUU
+	}
+
+	provinces={
+		117 1562 1665 2450 3720 4371 4792 5194 5732 5761 6322 6441 8325 9201 11624 14101 15189 
+	}
+	local_supplies=0.0 
+}

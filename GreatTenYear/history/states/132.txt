@@ -1,0 +1,34 @@
+
+state={
+	id=132
+	name="STATE_132"
+	manpower = 6759277
+	
+	state_category = city
+	resources={
+		aluminium=2
+		chromium=0
+		oil=0
+		rubber=0
+		steel=7
+		tungsten=0
+	}
+
+	history={
+		owner = ACH
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = ACH
+	}
+
+	provinces={
+		146 1235 2604 2781 4165 4451 6690 7386 8751 9185 10658 14303 14629 15425 16091 16627 16925 
+	}
+	local_supplies=0.0 
+}

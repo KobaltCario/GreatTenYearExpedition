@@ -1,0 +1,34 @@
+
+state={
+	id=196
+	name="STATE_196"
+	manpower = 9114110
+	
+	state_category = megalopolis
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=16
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		owner = ACH
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 1
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = ACH
+	}
+
+	provinces={
+		222 499 831 1134 3104 3355 5737 6308 6395 8658 9296 11296 11908 13143 15329 15331 16214 16862 
+	}
+	local_supplies=0.0 
+}

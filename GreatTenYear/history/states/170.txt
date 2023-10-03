@@ -1,0 +1,34 @@
+
+state={
+	id=170
+	name="STATE_170"
+	manpower = 10319999
+	
+	state_category = large_town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=6
+		tungsten=0
+	}
+
+	history={
+		owner = ACH
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = ACH
+	}
+
+	provinces={
+		192 281 1987 3764 10016 11459 13692 16918 17127 18166 18347 18414 18703 18829 18997 19590 19825 19960 
+	}
+	local_supplies=0.0 
+}

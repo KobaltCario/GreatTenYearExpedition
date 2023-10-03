@@ -1,0 +1,34 @@
+
+state={
+	id=178
+	name="STATE_178"
+	manpower = 8227811
+	
+	state_category = large_city
+	resources={
+		aluminium=2
+		chromium=0
+		oil=0
+		rubber=0
+		steel=8
+		tungsten=0
+	}
+
+	history={
+		owner = ACH
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = ACH
+	}
+
+	provinces={
+		201 294 1053 1498 1805 2012 2086 2635 4827 5420 7571 7671 9084 11767 12292 13018 13086 14122 15711 15993 
+	}
+	local_supplies=0.0 
+}

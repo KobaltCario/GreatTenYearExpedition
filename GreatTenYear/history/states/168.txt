@@ -1,0 +1,34 @@
+
+state={
+	id=168
+	name="STATE_168"
+	manpower = 6352749
+	
+	state_category = city
+	resources={
+		aluminium=4
+		chromium=0
+		oil=0
+		rubber=0
+		steel=8
+		tungsten=0
+	}
+
+	history={
+		owner = TRU
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = TRU
+	}
+
+	provinces={
+		187 5089 6341 6402 6605 7216 7231 9218 9362 10936 11077 11577 12070 12172 12456 12500 13351 14633 15275 15933 
+	}
+	local_supplies=0.0 
+}

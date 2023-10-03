@@ -1,0 +1,34 @@
+
+state={
+	id=137
+	name="STATE_137"
+	manpower = 11602144
+	
+	state_category = megalopolis
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=7
+	}
+
+	history={
+		owner = TUU
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 1
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = TUU
+	}
+
+	provinces={
+		151 1563 1726 2276 3333 3851 3918 4734 4962 5071 5143 5555 7969 8109 10503 11961 12538 12945 13433 13462 13703 15460 15894 16591 16934 17137 17208 
+	}
+	local_supplies=0.0 
+}

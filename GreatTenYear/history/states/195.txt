@@ -1,0 +1,37 @@
+
+state={
+	id=195
+	name="STATE_195"
+	manpower = 9757523
+	
+	state_category = megalopolis
+	resources={
+		aluminium=0
+		chromium=7
+		oil=14
+		rubber=0
+		steel=7
+		tungsten=0
+	}
+
+	history={
+		owner = TRU
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 1
+			industrial_complex = 1
+			
+			2309 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = TRU
+	}
+
+	provinces={
+		220 1950 2189 2309 4789 5917 7330 7411 9759 10247 10583 10620 12411 12998 13839 14722 14976 15690 16426 
+	}
+	local_supplies=0.0 
+}

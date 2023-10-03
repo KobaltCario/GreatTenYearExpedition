@@ -1,0 +1,34 @@
+
+state={
+	id=184
+	name="STATE_184"
+	manpower = 8328624
+	
+	state_category = megalopolis
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=7
+		tungsten=0
+	}
+
+	history={
+		owner = MUB
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 1
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = MUB
+	}
+
+	provinces={
+		208 854 2235 2351 4162 5100 9302 9895 11662 11877 11941 14052 14326 15598 16278 16507 17009 
+	}
+	local_supplies=0.0 
+}

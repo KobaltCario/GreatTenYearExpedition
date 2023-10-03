@@ -1,0 +1,34 @@
+
+state={
+	id=116
+	name="STATE_116"
+	manpower = 1980554
+	
+	state_category = rural
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		owner = ACH
+		buildings = {
+			infrastructure = 2
+			air_base = 0
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = ACH
+	}
+
+	provinces={
+		128 474 611 2419 3124 3855 4243 4844 8314 8416 8672 9339 9524 12694 14752 16188 16338 
+	}
+	local_supplies=0.0 
+}

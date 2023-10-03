@@ -1,0 +1,34 @@
+
+state={
+	id=148
+	name="STATE_148"
+	manpower = 6794219
+	
+	state_category = metropolis
+	resources={
+		aluminium=0
+		chromium=1
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		owner = HIA
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = HIA
+	}
+
+	provinces={
+		163 221 2913 5545 6204 6336 6573 6615 7361 7451 7960 8190 10171 11786 12171 12468 14315 14420 
+	}
+	local_supplies=0.0 
+}

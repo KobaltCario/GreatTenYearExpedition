@@ -1,0 +1,34 @@
+
+state={
+	id=138
+	name="STATE_138"
+	manpower = 2689597
+	
+	state_category = rural
+	resources={
+		aluminium=4
+		chromium=0
+		oil=0
+		rubber=0
+		steel=7
+		tungsten=0
+	}
+
+	history={
+		owner = TRU
+		buildings = {
+			infrastructure = 2
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = TRU
+	}
+
+	provinces={
+		152 1193 2647 3694 4697 4721 5922 6781 8823 9225 13112 13800 13860 14009 14978 15286 15466 15778 16512 
+	}
+	local_supplies=0.0 
+}
