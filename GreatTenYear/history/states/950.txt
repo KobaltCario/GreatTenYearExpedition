@@ -1,0 +1,34 @@
+
+state={
+	id=950
+	name="STATE_950"
+	manpower = 12570989
+	
+	state_category = megalopolis
+	resources={
+		aluminium=2
+		chromium=0
+		oil=13
+		rubber=3
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		owner = SOE
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 2
+			
+			
+		}
+		add_core_of = SOE
+	}
+
+	provinces={
+		4543 4838 5679 6213 8365 8875 8975 9482 9486 9784 10185 11049 13563 13821 13869 15151 16325 17580 
+	}
+	local_supplies=0.0 
+}

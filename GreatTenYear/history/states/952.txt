@@ -1,0 +1,34 @@
+
+state={
+	id=952
+	name="STATE_952"
+	manpower = 13863283
+	
+	state_category = megalopolis
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=6
+		tungsten=0
+	}
+
+	history={
+		owner = ROE
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 1
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = ROE
+	}
+
+	provinces={
+		4886 5119 5818 6282 6310 8115 8409 9028 10687 11067 11138 12632 12671 15507 15586 16016 16132 
+	}
+	local_supplies=0.0 
+}

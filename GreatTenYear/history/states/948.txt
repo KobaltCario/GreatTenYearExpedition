@@ -1,0 +1,34 @@
+
+state={
+	id=948
+	name="STATE_948"
+	manpower = 16755893
+	
+	state_category = megalopolis
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=10
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		owner = ISU
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 1
+			dockyard = 1
+			
+		}
+		add_core_of = ISU
+	}
+
+	provinces={
+		4176 4364 4445 5018 7598 8647 8847 9107 11022 11844 11865 12061 12072 12255 12918 14430 14456 14776 15133 15729 16323 16642 17657 
+	}
+	local_supplies=0.0 
+}

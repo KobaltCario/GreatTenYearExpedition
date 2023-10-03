@@ -1,0 +1,34 @@
+
+state={
+	id=924
+	name="STATE_924"
+	manpower = 8310507
+	
+	state_category = city
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=1
+	}
+
+	history={
+		owner = ROE
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = ROE
+	}
+
+	provinces={
+		2724 4429 5564 6059 6394 7095 7547 7601 8022 8139 9285 9324 9827 12726 14579 15848 15975 15985 16318 16981 
+	}
+	local_supplies=0.0 
+}

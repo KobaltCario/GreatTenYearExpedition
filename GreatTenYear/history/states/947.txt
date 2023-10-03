@@ -1,0 +1,34 @@
+
+state={
+	id=947
+	name="STATE_947"
+	manpower = 4490198
+	
+	state_category = town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=7
+		tungsten=0
+	}
+
+	history={
+		owner = ROE
+		buildings = {
+			infrastructure = 2
+			air_base = 0
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = ROE
+	}
+
+	provinces={
+		4010 5042 5255 5612 6427 8903 9099 10779 10952 11167 12151 12388 12466 15208 15311 15815 15858 16724 
+	}
+	local_supplies=0.0 
+}

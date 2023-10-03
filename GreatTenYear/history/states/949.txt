@@ -1,0 +1,34 @@
+
+state={
+	id=949
+	name="STATE_949"
+	manpower = 7102874
+	
+	state_category = pastoral
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		owner = ERU
+		buildings = {
+			infrastructure = 2
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = ERU
+	}
+
+	provinces={
+		4214 15604 17799 17803 17814 17850 18011 18145 18179 18272 18600 18683 19324 19442 19505 19589 19658 19679 19815 
+	}
+	local_supplies=0.0 
+}
