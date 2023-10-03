@@ -72,7 +72,13 @@ have a new country on the map with little to no problems.
 Step 0: (To make it easier, go into the game in debug mode, and locate the state ID where you would like to make the capital)
 
 Step 1: Inside of the GreatTenYear\common\countries folder, create a new .txt file named after the country you want to make (EX: 'Sontisian_Empire'). You can copy an
-already existed file, and then rename it, inside the file you can designate the graphical culture of this nation, along with it's color on the map in RGB format.
+already existed file, and then rename it, inside the file you can designate the graphical culture of this nation, along with it's color on the map in RGB format. There is also a 'colors.txt'
+file that you will need to add your new country to so the color works on the map.
+EX:
+NEH = {
+	color = rgb { 255 109 36 }
+	color_ui = rgb { 255 109 36 }
+}
 
 Step 2: Inside of the GreatTenYear\common\country_tags folder, open the 02_countries.txt file. Inside this file is a list of the country tags currently in the game,
 simply go to a new line and create a tag similar to what already exists there (EX: 'SOE = countries/Sontisian_Empire.txt'). Make sure your tag is 3 letters and fully
