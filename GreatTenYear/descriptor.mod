@@ -1,4 +1,4 @@
-name="Great Ten Year Expedition"
+name="GreatTenYear"
 picture="thumbnail.png"
 version="v1"
 user_dir="GreatTenYear"
