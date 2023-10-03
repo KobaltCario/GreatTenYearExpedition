@@ -1,0 +1,34 @@
+
+state={
+	id=736
+	name="STATE_736"
+	manpower = 13083901
+	
+	state_category = metropolis
+	resources={
+		aluminium=0
+		chromium=0
+		oil=10
+		rubber=0
+		steel=2
+		tungsten=0
+	}
+
+	history={
+		owner = CAU
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 2
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = CAU
+	}
+
+	provinces={
+		1260 1792 3800 3892 6096 8162 8458 8721 8730 9311 9494 9559 11602 13136 13217 15128 15169 16629 
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,34 @@
+
+state={
+	id=705
+	name="STATE_705"
+	manpower = 4508499
+	
+	state_category = large_town
+	resources={
+		aluminium=0
+		chromium=7
+		oil=13
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		owner = ISU
+		buildings = {
+			infrastructure = 2
+			air_base = 0
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = ISU
+	}
+
+	provinces={
+		1161 1957 2358 3314 4881 4969 5372 5396 6023 8827 9089 9326 9431 10054 11567 14330 14473 14703 17203 
+	}
+	local_supplies=0.0 
+}

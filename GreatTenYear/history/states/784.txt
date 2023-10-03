@@ -1,0 +1,34 @@
+
+state={
+	id=784
+	name="STATE_784"
+	manpower = 6455906
+	
+	state_category = metropolis
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		owner = ROE
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = ROE
+	}
+
+	provinces={
+		1494 1996 2103 2399 2736 5256 5340 5632 6434 8251 8335 9767 10123 11156 11247 14221 16789 
+	}
+	local_supplies=0.0 
+}

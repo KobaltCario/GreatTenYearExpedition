@@ -1,0 +1,37 @@
+
+state={
+	id=794
+	name="STATE_794"
+	manpower = 15550517
+	
+	state_category = megalopolis
+	resources={
+		aluminium=0
+		chromium=0
+		oil=15
+		rubber=0
+		steel=5
+		tungsten=0
+	}
+
+	history={
+		owner = TRU
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 1
+			industrial_complex = 0
+			dockyard = 1
+			1548 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = TRU
+	}
+
+	provinces={
+		1548 2237 2833 4097 4191 5639 6319 6415 6974 7920 8945 11172 11929 12462 13300 16033 16368 16845 17398 
+	}
+	local_supplies=0.0 
+}

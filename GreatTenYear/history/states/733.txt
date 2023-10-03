@@ -1,0 +1,34 @@
+
+state={
+	id=733
+	name="STATE_733"
+	manpower = 3991106
+	
+	state_category = rural
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=8
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		owner = ACH
+		buildings = {
+			infrastructure = 2
+			air_base = 0
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = ACH
+	}
+
+	provinces={
+		1256 2727 3158 5210 5597 9761 10134 10250 11605 11612 12050 12416 12747 12913 14437 16473 17568 
+	}
+	local_supplies=0.0 
+}

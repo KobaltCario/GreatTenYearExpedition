@@ -1,0 +1,37 @@
+
+state={
+	id=779
+	name="STATE_779"
+	manpower = 13142163
+	
+	state_category = megalopolis
+	resources={
+		aluminium=5
+		chromium=0
+		oil=0
+		rubber=0
+		steel=7
+		tungsten=0
+	}
+
+	history={
+		owner = LUE
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 1
+			industrial_complex = 0
+			dockyard = 1
+			4742 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = LUE
+	}
+
+	provinces={
+		1474 4462 4599 4742 4781 4918 5439 5487 5856 7259 7496 8529 11663 12221 12655 12930 16341 16722 16794 16982 17367 17615 
+	}
+	local_supplies=0.0 
+}

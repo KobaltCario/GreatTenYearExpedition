@@ -1,0 +1,37 @@
+
+state={
+	id=761
+	name="STATE_761"
+	manpower = 16379581
+	
+	state_category = megalopolis
+	resources={
+		aluminium=0
+		chromium=0
+		oil=13
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		owner = ERU
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 2
+			
+			2778 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = ERU
+	}
+
+	provinces={
+		1372 1383 2778 3191 3299 4226 4727 5548 6032 6558 6803 7486 7505 8296 9060 10703 10921 11058 12090 12203 12271 13853 14190 14691 
+	}
+	local_supplies=0.0 
+}

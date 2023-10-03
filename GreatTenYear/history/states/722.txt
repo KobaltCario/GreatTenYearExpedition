@@ -1,0 +1,34 @@
+
+state={
+	id=722
+	name="STATE_722"
+	manpower = 4332393
+	
+	state_category = town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		owner = TUU
+		buildings = {
+			infrastructure = 2
+			air_base = 0
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = TUU
+	}
+
+	provinces={
+		1225 1392 2638 3083 3353 3488 4304 6970 8262 8423 8746 10222 10256 10711 11251 11988 14401 15027 
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,34 @@
+
+state={
+	id=712
+	name="STATE_712"
+	manpower = 5710402
+	
+	state_category = large_town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=6
+		tungsten=10
+	}
+
+	history={
+		owner = ROE
+		buildings = {
+			infrastructure = 2
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = ROE
+	}
+
+	provinces={
+		1186 1419 1700 6285 7632 7790 8347 11810 11872 12496 12997 13113 14293 14360 15099 16645 17282 
+	}
+	local_supplies=0.0 
+}

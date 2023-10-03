@@ -1,0 +1,34 @@
+
+state={
+	id=740
+	name="STATE_740"
+	manpower = 9852362
+	
+	state_category = city
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		owner = HIA
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = HIA
+	}
+
+	provinces={
+		1277 2607 3380 3627 3757 3814 4758 7825 9040 9713 9834 10040 11638 12905 13423 14716 15922 17511 17646 
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,34 @@
+
+state={
+	id=730
+	name="STATE_730"
+	manpower = 9905001
+	
+	state_category = metropolis
+	resources={
+		aluminium=2
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		owner = SOE
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = SOE
+	}
+
+	provinces={
+		1247 1520 1955 3105 4163 5578 8012 8238 8765 8885 12153 12652 13558 14859 15162 15209 15831 15844 16923 
+	}
+	local_supplies=0.0 
+}

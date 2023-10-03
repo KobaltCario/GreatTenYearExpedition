@@ -1,0 +1,34 @@
+
+state={
+	id=759
+	name="STATE_759"
+	manpower = 8377344
+	
+	state_category = large_city
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		owner = MUB
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = MUB
+	}
+
+	provinces={
+		1365 2616 4473 4529 5460 6938 8321 10614 11404 11660 12337 12651 15197 15672 15916 16376 19181 
+	}
+	local_supplies=0.0 
+}
