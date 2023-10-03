@@ -1,0 +1,34 @@
+
+state={
+	id=76
+	name="STATE_76"
+	manpower = 10310600
+	
+	state_category = large_city
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		owner = TUU
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = TUU
+	}
+
+	provinces={
+		83 1301 1940 2792 4033 5516 6002 7770 10755 11025 12382 12764 13012 13411 15669 18266 19625 19697 19840 
+	}
+	local_supplies=0.0 
+}

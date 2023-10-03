@@ -1,0 +1,34 @@
+
+state={
+	id=55
+	name="STATE_55"
+	manpower = 8319960
+	
+	state_category = city
+	resources={
+		aluminium=0
+		chromium=8
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		owner = ERU
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = ERU
+	}
+
+	provinces={
+		61 195 788 1175 2684 4475 4555 4753 4937 5142 6008 6738 8081 8789 10514 11998 14358 14743 16175 
+	}
+	local_supplies=0.0 
+}

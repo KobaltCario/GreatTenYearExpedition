@@ -1,0 +1,34 @@
+
+state={
+	id=27
+	name="STATE_27"
+	manpower = 9232482
+	
+	state_category = metropolis
+	resources={
+		aluminium=3
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=2
+	}
+
+	history={
+		owner = TRU
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 2
+			
+			
+		}
+		add_core_of = TRU
+	}
+
+	provinces={
+		29 894 1878 2030 2657 3260 3336 3899 4737 9608 10338 10712 10775 10903 12974 14884 15442 
+	}
+	local_supplies=0.0 
+}

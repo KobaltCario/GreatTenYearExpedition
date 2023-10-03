@@ -1,0 +1,34 @@
+
+state={
+	id=92
+	name="STATE_92"
+	manpower = 8504347
+	
+	state_category = city
+	resources={
+		aluminium=3
+		chromium=0
+		oil=0
+		rubber=7
+		steel=4
+		tungsten=0
+	}
+
+	history={
+		owner = SOE
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 0
+			dockyard = 1
+			
+		}
+		add_core_of = SOE
+	}
+
+	provinces={
+		99 4007 4675 4879 6001 6309 7656 7901 8119 9077 9955 10002 11859 11924 12717 13142 14192 15084 15487 16117 16558 16593 17198 
+	}
+	local_supplies=0.0 
+}

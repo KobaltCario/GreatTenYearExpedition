@@ -1,0 +1,34 @@
+
+state={
+	id=89
+	name="STATE_89"
+	manpower = 5586269
+	
+	state_category = town
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=0
+		steel=5
+		tungsten=0
+	}
+
+	history={
+		owner = CAU
+		buildings = {
+			infrastructure = 2
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = CAU
+	}
+
+	provinces={
+		96 127 676 1436 2789 4189 4649 5096 6272 7968 8192 8209 9120 9344 10004 13435 14871 15357 15768 
+	}
+	local_supplies=0.0 
+}

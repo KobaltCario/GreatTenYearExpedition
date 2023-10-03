@@ -1,0 +1,34 @@
+
+state={
+	id=63
+	name="STATE_63"
+	manpower = 2248286
+	
+	state_category = rural
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=6
+		tungsten=0
+	}
+
+	history={
+		owner = TUU
+		buildings = {
+			infrastructure = 2
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = TUU
+	}
+
+	provinces={
+		69 675 777 3586 3770 6015 6026 6525 6747 7094 7690 8507 10278 11551 14801 15461 16146 
+	}
+	local_supplies=0.0 
+}

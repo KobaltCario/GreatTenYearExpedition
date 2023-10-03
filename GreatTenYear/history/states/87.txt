@@ -1,0 +1,34 @@
+
+state={
+	id=87
+	name="STATE_87"
+	manpower = 4615160
+	
+	state_category = town
+	resources={
+		aluminium=2
+		chromium=0
+		oil=0
+		rubber=15
+		steel=3
+		tungsten=0
+	}
+
+	history={
+		owner = TRU
+		buildings = {
+			infrastructure = 2
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = TRU
+	}
+
+	provinces={
+		94 2176 3088 4719 4815 5571 6231 6844 8317 8848 9163 9268 9499 9558 11758 12116 13687 14594 14605 15055 15368 16747 17245 
+	}
+	local_supplies=0.0 
+}

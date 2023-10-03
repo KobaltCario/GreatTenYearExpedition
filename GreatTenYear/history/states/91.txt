@@ -1,0 +1,34 @@
+
+state={
+	id=91
+	name="STATE_91"
+	manpower = 11329058
+	
+	state_category = metropolis
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=14
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		owner = ROE
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = ROE
+	}
+
+	provinces={
+		98 883 1194 2480 2526 3700 5209 5909 6662 7619 8128 9031 11091 11732 12490 13808 14556 15081 15474 16143 17415 
+	}
+	local_supplies=0.0 
+}

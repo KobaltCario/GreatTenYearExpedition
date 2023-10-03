@@ -1,0 +1,34 @@
+
+state={
+	id=13
+	name="STATE_13"
+	manpower = 7017140
+	
+	state_category = metropolis
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		owner = MUB
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = MUB
+	}
+
+	provinces={
+		13 1050 1750 4050 4459 5111 5409 7383 7545 9628 9760 10323 11455 11574 12724 16822 17054 
+	}
+	local_supplies=0.0 
+}

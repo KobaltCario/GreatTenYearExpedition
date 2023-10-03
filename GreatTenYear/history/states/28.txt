@@ -1,0 +1,34 @@
+
+state={
+	id=28
+	name="STATE_28"
+	manpower = 3329915
+	
+	state_category = large_town
+	resources={
+		aluminium=4
+		chromium=0
+		oil=0
+		rubber=0
+		steel=6
+		tungsten=0
+	}
+
+	history={
+		owner = TRU
+		buildings = {
+			infrastructure = 2
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = TRU
+	}
+
+	provinces={
+		31 119 886 2834 3453 5320 5849 6357 9585 9671 10498 12679 12946 14037 14805 15564 17231 
+	}
+	local_supplies=0.0 
+}

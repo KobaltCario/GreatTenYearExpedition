@@ -1,0 +1,34 @@
+
+state={
+	id=77
+	name="STATE_77"
+	manpower = 7500178
+	
+	state_category = large_town
+	resources={
+		aluminium=4
+		chromium=0
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=3
+	}
+
+	history={
+		owner = TRU
+		buildings = {
+			infrastructure = 2
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = TRU
+	}
+
+	provinces={
+		84 940 982 2021 3237 4773 6536 6748 7187 7527 8148 8836 12454 13348 13426 13716 15349 17522 
+	}
+	local_supplies=0.0 
+}
