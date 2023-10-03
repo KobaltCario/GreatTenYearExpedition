@@ -67,7 +67,7 @@ To get this character into a country, you must recruit them, inside GreatTenYear
 CREATING A NEW COUNTRY:
 
 Creating a new country isn't very difficult, it will take a bit of time to do so, especially if its your first time. Follow this step by step and you should be able to
-have a new country on the map in no time. 
+have a new country on the map in no problems. 
 
 Step 0: (To make it easier, go into the game in debug mode, and locate the state ID where you would like to make the capital)
 
