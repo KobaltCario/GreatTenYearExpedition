@@ -1,0 +1,25 @@
+characters = {
+	
+	#EMPRESS KIKI
+	SOE_kiki = {
+		name = SOE_kiki
+		gender = female
+
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SOE/portrait_SOE_kiki.dds"
+			}
+			
+			army = {
+				large = "gfx/leaders/SOE/portrait_SOE_kiki.dds"
+			}
+		}
+
+		country_leader = {
+            ideology = despotism
+            traits = { agrarian_activist portly_princess }
+            desc = "Fattest Empress Around"
+        }
+
+	}
+}

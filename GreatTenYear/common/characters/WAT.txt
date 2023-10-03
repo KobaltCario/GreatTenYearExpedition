@@ -1,0 +1,25 @@
+characters = {
+	
+	#GIRATINA PLACEHOLDER
+	WAT_giratina = {
+		name = WAT_giratina
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/WAT/giratina_leader.dds"
+			}
+			
+			army = {
+				large = "gfx/leaders/WAT/giratina_leader.dds"
+			}
+		}
+
+	country_leader = {
+            ideology = despotism
+            traits = { captain_of_industry }
+            desc = ""
+        }
+
+	}
+}

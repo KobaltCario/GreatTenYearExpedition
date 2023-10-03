@@ -1,0 +1,25 @@
+characters = {
+	
+	#ZOROARK PLACEHOLDER
+	NEH_zoroark = {
+		name = NEH_zoroark
+		gender = female
+
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/NEH/zoroark_leader.dds"
+			}
+			
+			army = {
+				large = "gfx/leaders/NEH/zoroark_leader.dds"
+			}
+		}
+
+	country_leader = {
+            ideology = liberalism
+            traits = { agrarian_activist }
+            desc = ""
+        }
+
+	}
+}

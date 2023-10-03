@@ -1,0 +1,13 @@
+ACH = countries/Achesho.txt
+CAU = countries/Caudax.txt
+ERU = countries/Erurri.txt
+HIA = countries/Hiaccuend.txt
+ISU = countries/Isurdu.txt
+LUE = countries/Luequuess.txt
+MUB = countries/Mubwie.txt
+ROE = countries/Roejuy.txt
+TRU = countries/Trumith.txt
+TUU = countries/Tuurerd.txt
+SOE = countries/Sontisian_Empire.txt
+NEH = countries/Nethellian_States.txt
+WAT = countries/Wastounese_Aristocracy.txt
