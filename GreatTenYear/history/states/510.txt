@@ -1,0 +1,34 @@
+
+state={
+	id=510
+	name="STATE_510"
+	manpower = 10278466
+	
+	state_category = large_city
+	resources={
+		aluminium=0
+		chromium=3
+		oil=0
+		rubber=0
+		steel=4
+		tungsten=0
+	}
+
+	history={
+		owner = TRU
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = TRU
+	}
+
+	provinces={
+		684 2112 2272 3235 3598 3726 3813 5003 5588 6901 7480 7931 10448 11587 14366 15838 15920 
+	}
+	local_supplies=0.0 
+}

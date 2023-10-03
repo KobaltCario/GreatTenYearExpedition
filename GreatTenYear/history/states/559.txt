@@ -1,0 +1,34 @@
+
+state={
+	id=559
+	name="STATE_559"
+	manpower = 2567523
+	
+	state_category = rural
+	resources={
+		aluminium=0
+		chromium=0
+		oil=4
+		rubber=0
+		steel=6
+		tungsten=0
+	}
+
+	history={
+		owner = ROE
+		buildings = {
+			infrastructure = 2
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = ROE
+	}
+
+	provinces={
+		776 932 5123 5476 5964 6513 7314 8453 8643 8957 9158 9363 9517 10676 11493 15042 15463 15628 
+	}
+	local_supplies=0.0 
+}

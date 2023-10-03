@@ -1,0 +1,37 @@
+
+state={
+	id=542
+	name="STATE_542"
+	manpower = 15981529
+	
+	state_category = megalopolis
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		owner = SOE
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 2
+			
+			1712 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = SOE
+	}
+
+	provinces={
+		745 1712 2211 6228 6601 6818 7479 8289 8399 10869 11249 11520 12368 12473 13194 13699 14063 14680 14931 15071 17484 
+	}
+	local_supplies=0.0 
+}

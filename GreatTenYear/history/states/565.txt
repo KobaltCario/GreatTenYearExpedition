@@ -1,0 +1,34 @@
+
+state={
+	id=565
+	name="STATE_565"
+	manpower = 9239124
+	
+	state_category = metropolis
+	resources={
+		aluminium=5
+		chromium=0
+		oil=0
+		rubber=0
+		steel=6
+		tungsten=5
+	}
+
+	history={
+		owner = MUB
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = MUB
+	}
+
+	provinces={
+		800 2164 3647 4205 6487 8918 9491 12904 12966 13170 13584 13601 13962 15060 15491 17092 18675 19202 19742 
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,34 @@
+
+state={
+	id=517
+	name="STATE_517"
+	manpower = 6789374
+	
+	state_category = city
+	resources={
+		aluminium=0
+		chromium=6
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		owner = CAU
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = CAU
+	}
+
+	provinces={
+		703 768 1167 1630 2155 2639 3371 5607 5994 6331 6713 8122 10378 10971 14064 14704 17582 
+	}
+	local_supplies=0.0 
+}

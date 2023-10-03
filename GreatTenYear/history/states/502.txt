@@ -1,0 +1,34 @@
+
+state={
+	id=502
+	name="STATE_502"
+	manpower = 4189362
+	
+	state_category = rural
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		owner = CAU
+		buildings = {
+			infrastructure = 2
+			air_base = 0
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = CAU
+	}
+
+	provinces={
+		668 901 1078 2268 3003 3475 6241 6978 7052 8064 8250 8926 9448 10063 11410 11562 13698 14003 14464 15998 
+	}
+	local_supplies=0.0 
+}
