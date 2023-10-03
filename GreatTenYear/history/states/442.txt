@@ -1,0 +1,37 @@
+
+state={
+	id=442
+	name="STATE_442"
+	manpower = 9550237
+	
+	state_category = megalopolis
+	resources={
+		aluminium=0
+		chromium=5
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		owner = TRU
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 2
+			
+			560 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = TRU
+	}
+
+	provinces={
+		560 1534 2531 3137 3216 4056 5531 6968 7303 7910 7919 9152 15117 15186 15640 15932 16181 
+	}
+	local_supplies=0.0 
+}

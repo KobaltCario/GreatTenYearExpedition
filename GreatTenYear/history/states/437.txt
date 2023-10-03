@@ -1,0 +1,37 @@
+
+state={
+	id=437
+	name="STATE_437"
+	manpower = 19257050
+	
+	state_category = megalopolis
+	resources={
+		aluminium=5
+		chromium=5
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		owner = LUE
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 1
+			industrial_complex = 1
+			
+			717 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = LUE
+	}
+
+	provinces={
+		553 717 1071 2125 2185 2389 3441 3549 5454 5484 7588 7784 8358 8485 8807 10065 10799 12257 12880 13586 14711 14736 16173 16400 
+	}
+	local_supplies=0.0 
+}

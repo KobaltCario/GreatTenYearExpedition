@@ -1,0 +1,34 @@
+
+state={
+	id=489
+	name="STATE_489"
+	manpower = 3123218
+	
+	state_category = rural
+	resources={
+		aluminium=6
+		chromium=0
+		oil=0
+		rubber=0
+		steel=2
+		tungsten=0
+	}
+
+	history={
+		owner = TRU
+		buildings = {
+			infrastructure = 2
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = TRU
+	}
+
+	provinces={
+		647 793 3642 3882 4114 4911 5281 5509 8695 8806 9097 12802 13940 15192 15946 15986 16729 17597 
+	}
+	local_supplies=0.0 
+}

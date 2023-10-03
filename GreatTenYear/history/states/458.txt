@@ -1,0 +1,34 @@
+
+state={
+	id=458
+	name="STATE_458"
+	manpower = 12760493
+	
+	state_category = metropolis
+	resources={
+		aluminium=5
+		chromium=4
+		oil=0
+		rubber=0
+		steel=3
+		tungsten=0
+	}
+
+	history={
+		owner = ERU
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 1
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = ERU
+	}
+
+	provinces={
+		583 1684 3658 3897 8193 9648 11078 11097 11380 11727 12412 13476 14174 14750 15439 15821 16229 
+	}
+	local_supplies=0.0 
+}

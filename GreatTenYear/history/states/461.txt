@@ -1,0 +1,37 @@
+
+state={
+	id=461
+	name="STATE_461"
+	manpower = 14911953
+	
+	state_category = megalopolis
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=6
+		tungsten=1
+	}
+
+	history={
+		owner = SOE
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 1
+			dockyard = 1
+			978 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = SOE
+	}
+
+	provinces={
+		590 600 978 1666 3646 4835 5054 6636 7179 7379 7549 8259 9157 13063 13901 14314 15381 15795 16312 
+	}
+	local_supplies=0.0 
+}

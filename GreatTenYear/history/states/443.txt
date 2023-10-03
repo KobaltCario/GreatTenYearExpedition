@@ -1,0 +1,34 @@
+
+state={
+	id=443
+	name="STATE_443"
+	manpower = 13798714
+	
+	state_category = metropolis
+	resources={
+		aluminium=3
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		owner = ACH
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 2
+			
+			
+		}
+		add_core_of = ACH
+	}
+
+	provinces={
+		561 1269 3317 3450 5492 5653 7875 7895 8524 10515 12213 12650 14683 14813 16860 17213 17234 
+	}
+	local_supplies=0.0 
+}

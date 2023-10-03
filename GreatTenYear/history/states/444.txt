@@ -1,0 +1,34 @@
+
+state={
+	id=444
+	name="STATE_444"
+	manpower = 8549288
+	
+	state_category = city
+	resources={
+		aluminium=2
+		chromium=0
+		oil=0
+		rubber=0
+		steel=7
+		tungsten=0
+	}
+
+	history={
+		owner = TUU
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = TUU
+	}
+
+	provinces={
+		563 2214 4760 4840 5193 5783 5879 7012 7884 9359 9423 11903 13738 14118 15601 15840 16615 16702 
+	}
+	local_supplies=0.0 
+}
