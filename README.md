@@ -54,6 +54,8 @@ For example:
 Just to re-iterate, make sure if you're making a character a country leader, that their ideology is apart of the main ideology! Despotism is a sub-ideology of neutrality. You can find a list of the sub-ideologies online or in HOI4's main
 files under the common/ideology folder.
 
+Whenever adding a character portrait, ALWAYS USE THIS AS A BASE "gfx/leaders/SOE/portrait_SOE_kiki.dds", making sure to replace SOE with the country tag and the file name with your character's new portrait file name.
+
 Now that the character is created in the file, go to GreatTenYear\localisation\english and open the
 nsb_characters_l_english file, using Notepad++ or Visual Studio Code. Inside here, you can add what the name of a new 
 character should be (EX: SOE_kiki:0 "Empress Kiki"). Now in game, this character will be called 'Empress Kiki' instead of
