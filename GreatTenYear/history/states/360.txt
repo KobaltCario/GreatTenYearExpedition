@@ -1,0 +1,34 @@
+
+state={
+	id=360
+	name="STATE_360"
+	manpower = 6095085
+	
+	state_category = city
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		owner = TUU
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = TUU
+	}
+
+	provinces={
+		431 2936 4544 5896 6898 7073 7575 8964 9079 11722 13260 14496 14816 15288 16003 16559 17405 
+	}
+	local_supplies=0.0 
+}

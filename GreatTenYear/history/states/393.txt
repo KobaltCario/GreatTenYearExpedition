@@ -1,0 +1,34 @@
+
+state={
+	id=393
+	name="STATE_393"
+	manpower = 9323958
+	
+	state_category = metropolis
+	resources={
+		aluminium=3
+		chromium=10
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		owner = TUU
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = TUU
+	}
+
+	provinces={
+		480 546 811 1106 1370 3961 6451 8837 9125 10575 10669 11779 12267 12662 12870 13261 13953 14089 17225 
+	}
+	local_supplies=0.0 
+}

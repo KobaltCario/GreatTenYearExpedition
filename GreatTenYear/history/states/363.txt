@@ -1,0 +1,34 @@
+
+state={
+	id=363
+	name="STATE_363"
+	manpower = 3832922
+	
+	state_category = town
+	resources={
+		aluminium=0
+		chromium=3
+		oil=3
+		rubber=0
+		steel=0
+		tungsten=8
+	}
+
+	history={
+		owner = TRU
+		buildings = {
+			infrastructure = 2
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = TRU
+	}
+
+	provinces={
+		435 4822 5436 7462 9109 9666 9711 10954 11159 12032 13059 13447 13591 13801 14034 14573 15600 16479 16947 
+	}
+	local_supplies=0.0 
+}

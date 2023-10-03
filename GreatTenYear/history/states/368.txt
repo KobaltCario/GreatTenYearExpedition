@@ -1,0 +1,34 @@
+
+state={
+	id=368
+	name="STATE_368"
+	manpower = 12922570
+	
+	state_category = metropolis
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=7
+		tungsten=0
+	}
+
+	history={
+		owner = ACH
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = ACH
+	}
+
+	provinces={
+		441 604 1283 1308 3231 3553 6528 7871 8439 9019 9591 13326 13884 16051 16212 17397 18535 18789 19289 
+	}
+	local_supplies=0.0 
+}

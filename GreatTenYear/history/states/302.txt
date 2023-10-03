@@ -1,0 +1,37 @@
+
+state={
+	id=302
+	name="STATE_302"
+	manpower = 14210617
+	
+	state_category = megalopolis
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		owner = CAU
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 1
+			dockyard = 1
+			1238 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = CAU
+	}
+
+	provinces={
+		350 1238 1882 2421 2947 2978 4220 4405 5538 7116 7697 8652 8655 10135 10745 11308 11437 12002 12249 13487 14829 15872 
+	}
+	local_supplies=0.0 
+}
