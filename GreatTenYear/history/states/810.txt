@@ -1,0 +1,34 @@
+
+state={
+	id=810
+	name="STATE_810"
+	manpower = 6954275
+	
+	state_category = town
+	resources={
+		aluminium=6
+		chromium=0
+		oil=0
+		rubber=0
+		steel=8
+		tungsten=0
+	}
+
+	history={
+		owner = TUU
+		buildings = {
+			infrastructure = 2
+			air_base = 0
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = TUU
+	}
+
+	provinces={
+		1629 2697 6102 7271 9217 11996 12692 16550 17907 18087 18546 18638 18842 19599 19778 19792 19805 
+	}
+	local_supplies=0.0 
+}

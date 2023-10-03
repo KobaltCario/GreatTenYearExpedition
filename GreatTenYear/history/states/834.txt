@@ -1,0 +1,34 @@
+
+state={
+	id=834
+	name="STATE_834"
+	manpower = 10032020
+	
+	state_category = city
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		owner = ACH
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = ACH
+	}
+
+	provinces={
+		1761 2546 2570 3490 4147 5469 5659 8350 8900 9639 9739 10586 11179 11709 12758 14365 15247 16420 17192 
+	}
+	local_supplies=0.0 
+}

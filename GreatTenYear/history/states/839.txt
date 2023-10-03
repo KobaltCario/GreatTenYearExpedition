@@ -1,0 +1,34 @@
+
+state={
+	id=839
+	name="STATE_839"
+	manpower = 7739057
+	
+	state_category = metropolis
+	resources={
+		aluminium=0
+		chromium=2
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		owner = CAU
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = CAU
+	}
+
+	provinces={
+		1778 2212 2661 2743 3964 4552 5520 8284 8842 11414 13361 13386 15763 15800 15870 16457 16743 
+	}
+	local_supplies=0.0 
+}

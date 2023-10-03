@@ -1,0 +1,34 @@
+
+state={
+	id=821
+	name="STATE_821"
+	manpower = 4774153
+	
+	state_category = town
+	resources={
+		aluminium=1
+		chromium=0
+		oil=16
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		owner = ROE
+		buildings = {
+			infrastructure = 2
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = ROE
+	}
+
+	provinces={
+		1660 2067 3081 3315 4499 4556 6816 7453 9520 10128 11387 11770 12544 14386 14648 15156 15638 
+	}
+	local_supplies=0.0 
+}

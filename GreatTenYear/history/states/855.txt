@@ -1,0 +1,34 @@
+
+state={
+	id=855
+	name="STATE_855"
+	manpower = 9538183
+	
+	state_category = metropolis
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=8
+	}
+
+	history={
+		owner = TUU
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = TUU
+	}
+
+	provinces={
+		1939 1980 2199 3994 4210 6181 6459 8831 10675 11797 11820 12327 12470 13425 13781 14371 15873 16971 
+	}
+	local_supplies=0.0 
+}

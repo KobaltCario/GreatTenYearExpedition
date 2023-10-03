@@ -1,0 +1,34 @@
+
+state={
+	id=837
+	name="STATE_837"
+	manpower = 18036886
+	
+	state_category = large_city
+	resources={
+		aluminium=4
+		chromium=0
+		oil=0
+		rubber=0
+		steel=6
+		tungsten=0
+	}
+
+	history={
+		owner = ERU
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = ERU
+	}
+
+	provinces={
+		1768 5039 5471 6835 7948 7973 9127 9849 12082 12806 14204 15615 17226 17243 17545 18012 18068 18391 18392 18394 18657 19554 
+	}
+	local_supplies=0.0 
+}

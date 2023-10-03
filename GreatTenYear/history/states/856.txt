@@ -1,0 +1,34 @@
+
+state={
+	id=856
+	name="STATE_856"
+	manpower = 3969669
+	
+	state_category = rural
+	resources={
+		aluminium=4
+		chromium=0
+		oil=0
+		rubber=9
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		owner = HIA
+		buildings = {
+			infrastructure = 2
+			air_base = 0
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = HIA
+	}
+
+	provinces={
+		1945 2187 2574 2738 3690 5582 6066 6229 6608 6708 7209 7350 7915 8348 9123 10049 11532 11986 12605 14758 14762 15244 15622 16178 17334 
+	}
+	local_supplies=0.0 
+}

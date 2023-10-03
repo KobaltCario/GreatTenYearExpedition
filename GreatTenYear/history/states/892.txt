@@ -1,0 +1,37 @@
+
+state={
+	id=892
+	name="STATE_892"
+	manpower = 14468271
+	
+	state_category = metropolis
+	resources={
+		aluminium=0
+		chromium=0
+		oil=8
+		rubber=0
+		steel=6
+		tungsten=0
+	}
+
+	history={
+		owner = WAT
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 1
+			industrial_complex = 1
+			
+			12745 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = WAT
+	}
+
+	provinces={
+		2344 3698 4597 4832 5974 6051 7370 8910 9193 9914 10360 11827 12745 13712 13976 14818 16139 17274 
+	}
+	local_supplies=0.0 
+}

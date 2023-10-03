@@ -1,0 +1,34 @@
+
+state={
+	id=836
+	name="STATE_836"
+	manpower = 10625514
+	
+	state_category = metropolis
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=4
+		tungsten=0
+	}
+
+	history={
+		owner = WAT
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 2
+			
+			
+		}
+		add_core_of = WAT
+	}
+
+	provinces={
+		1766 4939 5017 5527 8609 9396 10332 12102 14336 14356 14609 14726 15661 16198 16401 16594 19994 
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,37 @@
+
+state={
+	id=879
+	name="STATE_879"
+	manpower = 21473681
+	
+	state_category = megalopolis
+	resources={
+		aluminium=4
+		chromium=0
+		oil=0
+		rubber=0
+		steel=7
+		tungsten=0
+	}
+
+	history={
+		owner = SOE
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 1
+			dockyard = 1
+			2144 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = SOE
+	}
+
+	provinces={
+		2144 2283 2842 2896 3777 4343 5197 5236 5589 6812 6964 7239 7292 7372 7958 8852 9818 10142 10184 12036 12597 12954 13021 13526 14528 14602 14958 15240 15567 15890 17048 
+	}
+	local_supplies=0.0 
+}
