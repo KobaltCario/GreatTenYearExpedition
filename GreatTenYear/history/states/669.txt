@@ -1,0 +1,34 @@
+
+state={
+	id=669
+	name="STATE_669"
+	manpower = 16793043
+	
+	state_category = metropolis
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		owner = ROE
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 1
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = ROE
+	}
+
+	provinces={
+		1058 1701 4893 5108 5332 6951 7315 7819 7821 8542 9083 9714 9722 10963 11333 12444 15745 16110 17470 
+	}
+	local_supplies=0.0 
+}

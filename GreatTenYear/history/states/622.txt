@@ -1,0 +1,34 @@
+
+state={
+	id=622
+	name="STATE_622"
+	manpower = 7340783
+	
+	state_category = large_town
+	resources={
+		aluminium=0
+		chromium=1
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		owner = HIA
+		buildings = {
+			infrastructure = 2
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = HIA
+	}
+
+	provinces={
+		929 1429 1482 1653 2149 3108 4076 4297 5404 7780 8000 9699 10841 11691 12140 13051 13134 13178 13957 13963 14279 17340 
+	}
+	local_supplies=0.0 
+}

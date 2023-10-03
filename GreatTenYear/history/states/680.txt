@@ -1,0 +1,34 @@
+
+state={
+	id=680
+	name="STATE_680"
+	manpower = 8829246
+	
+	state_category = town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=18
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		owner = TRU
+		buildings = {
+			infrastructure = 2
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = TRU
+	}
+
+	provinces={
+		1089 1112 1221 1895 2194 2204 2784 2852 3369 3780 4299 5838 6622 7839 8782 8951 9694 10042 10087 10126 10488 12101 13392 13618 13848 13941 15493 
+	}
+	local_supplies=0.0 
+}

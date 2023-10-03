@@ -1,0 +1,34 @@
+
+state={
+	id=616
+	name="STATE_616"
+	manpower = 17155598
+	
+	state_category = megalopolis
+	resources={
+		aluminium=2
+		chromium=1
+		oil=0
+		rubber=0
+		steel=2
+		tungsten=0
+	}
+
+	history={
+		owner = TUU
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 2
+			
+			
+		}
+		add_core_of = TUU
+	}
+
+	provinces={
+		912 1237 2530 2868 3896 4477 5077 8050 9586 9817 10189 10417 10679 10874 10969 11223 12696 12911 13569 15448 15527 15657 16396 16913 17429 
+	}
+	local_supplies=0.0 
+}

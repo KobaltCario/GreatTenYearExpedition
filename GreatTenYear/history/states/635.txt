@@ -1,0 +1,34 @@
+
+state={
+	id=635
+	name="STATE_635"
+	manpower = 8337013
+	
+	state_category = large_city
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=6
+		tungsten=0
+	}
+
+	history={
+		owner = CAU
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = CAU
+	}
+
+	provinces={
+		966 2222 2246 2483 3377 4705 6147 6378 7490 8273 11839 12120 13028 13295 13319 16516 16727 
+	}
+	local_supplies=0.0 
+}

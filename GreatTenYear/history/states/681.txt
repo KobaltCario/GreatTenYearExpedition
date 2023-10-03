@@ -1,0 +1,34 @@
+
+state={
+	id=681
+	name="STATE_681"
+	manpower = 11418659
+	
+	state_category = metropolis
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		owner = NEH
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = NEH
+	}
+
+	provinces={
+		1091 1356 2387 2455 3168 4282 4948 4968 5711 6136 10029 11288 11870 11927 14860 14942 15581 16357 17095 
+	}
+	local_supplies=0.0 
+}

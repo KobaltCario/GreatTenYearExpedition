@@ -1,0 +1,37 @@
+
+state={
+	id=698
+	name="STATE_698"
+	manpower = 12484115
+	
+	state_category = metropolis
+	resources={
+		aluminium=2
+		chromium=1
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		owner = HIA
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 0
+			dockyard = 1
+			1138 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = HIA
+	}
+
+	provinces={
+		1138 1294 1885 2541 2696 2760 6667 9293 9410 10265 11933 12197 12697 14689 15069 15163 16290 
+	}
+	local_supplies=0.0 
+}

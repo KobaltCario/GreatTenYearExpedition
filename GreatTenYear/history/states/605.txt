@@ -1,0 +1,34 @@
+
+state={
+	id=605
+	name="STATE_605"
+	manpower = 9003223
+	
+	state_category = megalopolis
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=4
+		tungsten=0
+	}
+
+	history={
+		owner = CAU
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 1
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = CAU
+	}
+
+	provinces={
+		877 2047 2394 2900 4120 5724 6590 6783 7478 9145 9164 10509 10652 10959 11684 12329 13616 14044 16710 
+	}
+	local_supplies=0.0 
+}

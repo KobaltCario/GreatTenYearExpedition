@@ -1,0 +1,37 @@
+
+state={
+	id=670
+	name="STATE_670"
+	manpower = 13207070
+	
+	state_category = metropolis
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=5
+		tungsten=0
+	}
+
+	history={
+		owner = TRU
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 1
+			industrial_complex = 0
+			
+			1059 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = TRU
+	}
+
+	provinces={
+		1059 1313 1587 2869 3297 3471 3492 3590 4671 5047 8401 9387 10345 11943 12010 12481 12495 12663 13077 13440 13645 14021 14022 14765 14881 15606 
+	}
+	local_supplies=0.0 
+}

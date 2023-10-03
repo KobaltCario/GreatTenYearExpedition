@@ -1,0 +1,34 @@
+
+state={
+	id=632
+	name="STATE_632"
+	manpower = 7176667
+	
+	state_category = large_city
+	resources={
+		aluminium=6
+		chromium=0
+		oil=0
+		rubber=0
+		steel=4
+		tungsten=0
+	}
+
+	history={
+		owner = ACH
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = ACH
+	}
+
+	provinces={
+		962 1519 2372 2800 3153 4199 4616 5885 7738 7987 8301 10569 10899 11572 11837 13100 14836 15949 
+	}
+	local_supplies=0.0 
+}

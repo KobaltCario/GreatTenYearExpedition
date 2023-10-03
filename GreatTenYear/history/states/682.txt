@@ -1,0 +1,34 @@
+
+state={
+	id=682
+	name="STATE_682"
+	manpower = 10339423
+	
+	state_category = megalopolis
+	resources={
+		aluminium=1
+		chromium=10
+		oil=0
+		rubber=0
+		steel=3
+		tungsten=0
+	}
+
+	history={
+		owner = NEH
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 1
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = NEH
+	}
+
+	provinces={
+		1094 1168 3372 4917 5525 9130 9314 9475 10368 10560 10613 10895 10925 13555 14441 16040 16092 17102 
+	}
+	local_supplies=0.0 
+}
