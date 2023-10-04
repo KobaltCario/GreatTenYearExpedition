@@ -2,7 +2,8 @@
 This is a total overhaul mod for Hearts of Iron IV, currently a WIP
 
 If you would like to play it, download both the GreatTenYear folder and the .mod accompanying it, and place both with HOI4's mod folder 
-(located at C:\Users\username\Documents\Paradox Interactive\Hearts of Iron IV\mod).
+(located at C:\Users\username\Documents\Paradox Interactive\Hearts of Iron IV\mod). As a side note, make sure to open the .mod file with notepad, notepad++ or VSCode, and edit the path to where your current
+install of the GreatTenYear folder actually is.
 
 If you would like to edit the mod at all, I will give a brief overview of how to do some basic actions, YouTube and the internet are great tools when you need more
 information or help on a certain subject.
