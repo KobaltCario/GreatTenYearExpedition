@@ -1,0 +1,28 @@
+﻿l_english:
+ #FOR REFERENCE
+ MINIMIZE_EVENT:0 "§GClick§! to Minimize. Event will be placed in the Event Queue under §HEvents and Decisions§!."
+ germany.4.t:0 "Anschluss"
+ germany.4.d:0 "Repeated uprisings in Austria clearly show that the people there long to be united with our Reich. It is now time to take action and allow the will of the people to be made manifest."
+ germany.4.a:0 "How can anyone say that Austria is not German?!"
+
+ #SONTISIAN EMPIRE
+ SOE_sontisia_kiki_grows.1.t:0 "Empress Kiki expands her borders, I mean waistline"
+ SOE_sontisia_kiki_grows.1.d:0 "Repeated visits from the royal chefs have shown considerable effects on the empress' figure. Should we tell her to stop?"
+ SOE_sontisia_kiki_grows.1.a:0 "Are you crazy? I'm sure she'll stop soon enough..."
+ SOE_coronation.1.t:0 "Long Live the Empress!"
+ SOE_coronation.1.d:0 "With the expedition declared missing and the Emperor and Prince presumed dead, the Sontisian Empire had no choice but to prepare princess to lead the nation. On this day Princess Kiki has been crowed Empress of Sontisia, Long Live Empress Kiki!"
+ SOE_coronation.1.a:0 "She will lead us to greatness!"
+
+ #GLOBAL NEWS EVENTS
+ news.1.t:0 "Expedition declared missing!"
+ news.1.d:0 "After 8 years, with no word back from the emperor's expedition out east, the expedition has been declared missing, with both the Emperor and prince presumed dead. What will this mean for the Sontisian Empire, and more importantly, Princess Kiki?"
+ news.1.a:1 "Send our condolences."
+ news.1.b:0 "An awful tragedy..."
+ news.1.c:0 "Perhaps this spells opportunity..."
+
+ news.2.t:0 "Princess Kiki Coronated!"
+ news.2.d:0 "With the expedtion declared missing and the Emperor and Prince presumed dead, the Sontisian Empire had no choice but to prepare princess to lead the nation. On this day Princess Kiki has been crowed Empress of Sontisia, Long Live Empress Kiki!"
+ news.2.a:1 "But is she ready?"
+ news.2.b:0 "Long Live Empress Kiki!"
+ news.2.c:0 "She won't be able to save them!"
+

@@ -1,0 +1,61 @@
+﻿l_english:
+
+ BOP_TOOLTIP:1 "The §Y[root.GetPowerBalanceName]§! is currently [?.root.power_balance_value|0%H] on the side of §Y[root.GetActiveSideName]§!"
+ BOP_TOOLTIP_TREND:0 "The balance of power is currently trending towards the side of §Y[root.GetTrendingSideName]§! by [root.GetBopTrendTextIcon][root.GetChangeRateDesc].\n[root.GetPowerBalanceModDesc]"
+ BOP_TOOLTIP_STABLE:1 "The balance of power is currently stable."
+ BOP_LEFT_SIDE_TOOLTIP:0 "[root.GetLeftSideName]"
+ BOP_RIGHT_SIDE_TOOLTIP:0 "[root.GetRightSideName]"
+ BOP_ACTIVE_RANGE_DESC:0 "[root.GetActiveRangeName]"
+ BOP_ACTIVE_RANGE_TOOLTIP:0 "[root.GetActiveRangeModDesc][root.GetActiveRangeRuleDesc]"
+
+ BOP_CHANGE_RATE_DAILY:2 "$VALUE|2%H$ per day"
+ BOP_CHANGE_RATE_WEEKLY:2 "$VALUE|2%H$ per week"
+
+ BOP_RANGE_DESC:0 "$NAME|Y$\nRange: $MIN|%Y$ - $MAX|%Y$\n$MODIFIER$\n$RULE$\n$ACTIVATION_EFFECT$\n$DEACTIVATION_EFFECT$"
+ BOP_RANGE_MODIFIER:0 "§YModifiers:§!\n$DESC$"
+ BOP_RANGE_RULE:0 "§YRules:§!\n$DESC$"
+ BOP_RANGE_ACTIVATION_EFFECT:0 "\n§YActivation effect:§!\n$DESC$"
+ BOP_RANGE_DEACTIVATION_EFFECT:0 "\n§YDeactivation effect:§!\n$DESC$"
+ 
+ BOP_PERCENTAGE:0 "$VALUE|0%$"
+ BOP_LEVELS:0 "$UNLOCKED$/$TOTAL$"
+ 
+ BOP_STATIC_MODIFIER:0 "$NAME|H$"
+ 
+ ####### ITALY (NOT IN GAME, JUST FOR REFERENCE) #######
+ ITA_power_balance:0 "National Balance of Power"
+ ITA_grand_council_side:1 "[GetGrandCouncilName]"
+ ITA_mussolini_side:0 "$ITA_benito_mussolini$"
+ ITA_balbo_side:0 "$ITA_italo_balbo$"
+ ITA_grandi_side:0 "$ITA_dino_grandi$"
+ ITA_king_side:1 "$ITA_vittorio_emanuele_iii$"
+ ITA_king_umberto_side:0 "$ITA_prince_umberto_king$"
+ ITA_communism_side:0 "Communist Faction"
+ ITA_democratic_side:0 "Socialist Faction"
+ ITA_pope_side:0 "His Holiness"
+
+ ITA_balance_range:0 "Political Equilibrium"
+ ITA_grand_council_low_control_range:0 "Low Council Influence"
+ ITA_grand_council_medium_control_range:0 "Dominant Council Influence"
+ ITA_grand_council_high_control_range:0 "Motion of No Confidence in the Duce"
+ ITA_grand_council_total_control_range:0 "Total Control of the Grand Council"
+ ITA_mussolini_low_control_range:0 "Low Duce Authority"
+ ITA_mussolini_medium_control_range:0 "Consolidated Power of the Duce"
+ ITA_mussolini_high_control_range:0 "Dictatorial Authority of the Duce"
+ ITA_mussolini_total_control_range:0 "Total Dominance of the Duce"
+
+ #SONTISIAN EMPIRE BOP
+ SOE_power_balance:0 "Modesty or Gluttony?"
+ SOE_modesty_side:0 "Modesty"
+ SOE_gluttony_side:0 "Gluttony"
+ SOE_mid_range:0 "Equilibrium"
+ SOE_modesty_low_range:0 "Decency"
+ SOE_modesty_medium_range:0 "Modesty"
+ SOE_modesty_high_range:0 "Austerity"
+ SOE_modesty_total_range:0 "Virtuous Temperance"
+ SOE_gluttony_low_range:0 "A little extra"
+ SOE_gluttony_medium_range:0 "Moderate Excess"
+ SOE_gluttony_high_range:0 "Gluttony"
+ SOE_gluttony_total_range:0 "Unchecked Avarice"
+
+ 
