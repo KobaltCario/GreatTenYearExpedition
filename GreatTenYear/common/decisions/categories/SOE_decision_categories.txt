@@ -1,0 +1,19 @@
+################
+##### SOE ######
+################
+
+SOE_balance_of_power_category = {
+	icon = decision_category_ITA_missiolinis
+	picture = GFX_decision_category_power_struggle
+	
+	allowed = {
+		original_tag = SOE
+	}
+	visible_when_empty = yes
+	priority = 100
+	
+	visible = {
+		#has_completed_focus = my_focus
+		date > 1936.3.3
+	}
+}

@@ -1,0 +1,86 @@
+ideas = {
+    country = {
+        ten_year_expedition_good = {
+			allowed = {
+				original_tag = SOE
+			}
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			picture = generic_democratic_drift_bonus
+			removal_cost = -1
+			
+			modifier = {
+				political_power_factor = -0.25
+				war_support_factor = 0.05
+			}
+			
+        }
+		
+		ten_year_expedition_bad = {
+			allowed = {
+				original_tag = SOE
+			}
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			picture = generic_research_bonus
+			removal_cost = -1
+			
+			modifier = {
+				political_power_factor = -0.30
+				war_support_factor = -0.10
+			}
+			
+        }
+        the_peoples_princess = {
+			allowed = {
+				original_tag = SOE
+			}
+
+			allowed_civil_war = {
+				always = no
+			}
+
+			picture = generic_research_bonus
+			removal_cost = -1
+			
+			modifier = {
+				stability_factor = 0.10
+				consumer_goods_factor = 0.05
+			}
+		
+		
+        }
+		
+		SOE_economic_crisis = {
+			allowed = {
+				original_tag = SOE
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			picture = generic_air_bonus
+
+			removal_cost = -1
+			
+			modifier = {
+				consumer_goods_factor = 0.05
+				production_speed_buildings_factor = -0.20 
+				industrial_capacity_factory = -0.15
+				industrial_capacity_dockyard = -0.15
+				
+				communism_drift = 0.03
+				fascism_drift = 0.03
+			}
+		
+		
+        }
+    }
+}

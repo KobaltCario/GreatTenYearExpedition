@@ -1,0 +1,32 @@
+#BALANCE OF POWER
+
+SOE_balance_of_power_category = {
+
+	SOE_bop_tea_with_dignitaries = {
+
+		allowed = {
+			original_tag = SOE
+		}
+	
+		visible = {
+			
+			date > 1936.3.3
+		}
+		
+		available = {
+			
+			date > 1936.4.4
+		}
+		
+		days_re_enable = 100
+	
+		complete_effect = {
+			add_power_balance_value = {
+				id = SOE_power_balance
+				value = 0.10
+			}
+			
+			add_political_power = 25
+		}
+		
+}
