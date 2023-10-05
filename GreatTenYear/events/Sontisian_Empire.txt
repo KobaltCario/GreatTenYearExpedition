@@ -1,0 +1,63 @@
+﻿###########################
+# Sontisian Events
+###########################
+
+add_namespace = SOE_sontisia_kiki_grows
+add_namespace = SOE_coronation
+
+country_event = {
+	id = SOE_sontisia_kiki_grows.1
+	title = SOE_sontisia_kiki_grows.1.t
+	desc = SOE_sontisia_kiki_grows.1.d
+	picture = GFX_report_event_african_soldiers #replace with new picture
+	
+	trigger = {
+		tag = SOE
+		date > 1936.6.6
+		has_country_leader = {
+			character = SOE_kiki
+			ruling_only = yes
+		}
+	}
+	
+	fire_only_once = yes
+	
+	option = {
+		name = SOE_sontisia_kiki_grows.1.a
+
+		kill_country_leader = yes
+		create_country_leader = {
+			name = "Empress Kiki"
+			desc = ""
+			picture = "gfx/leaders/SOE/portrait_SOE_kiki_bigger1.dds"
+			ideology = despotism
+			traits = {
+				portly_princess
+			}
+		}
+	}
+	
+}
+
+country_event = {
+    id = SOE_coronation.1
+	title = SOE_coronation.1.t
+	desc = SOE_coronation.1.d
+	picture = GFX_report_event_african_soldiers #replace with new picture
+	
+	is_triggered_only = yes
+	option = {
+		name = SOE_coronation.1.a
+	
+		kill_country_leader = yes
+		create_country_leader = {
+			name = "Empress Kiki"
+			desc = ""
+			picture = "gfx/leaders/SOE/portrait_SOE_kiki.dds"
+			ideology = despotism
+			traits = {
+				inexperienced_monarch
+			}
+		}
+	}
+}
